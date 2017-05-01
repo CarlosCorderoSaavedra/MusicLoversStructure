@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicLoversStructure</string>
+    <!-- Home  -->
+    <string name="song_list">song list</string>
+    <string name="add_song">add new song</string>
+
+    <!--Player-->
+    <string name="player_now_playing">Now Playing</string>
+    <string name="player_play">Play Song</string>
+    <string name="player_previous">Go to the previous song</string>
+    <string name="player_next">Go to the next song</string>
+</resources>
