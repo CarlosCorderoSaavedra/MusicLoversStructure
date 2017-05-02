@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">MusicLoversStructure</string>
     <!-- Home  -->
-    <string name="song_list">song list</string>
-    <string name="add_song">add new song</string>
+    <string name="song_list">SONG LIST</string>
+    <string name="add_song">ADD NEW SONG</string>
 
     <!--Player-->
     <string name="player_now_playing">Now Playing</string>
@@ -11,10 +11,14 @@
     <string name="player_next">Go to the next song</string>
 
     <string name="add_song_name">Song Name</string>
-    <string name="add_song_artist_name">Artist Naame</string>
+    <string name="add_song_artist_name">Artist Name</string>
 
     <!--Store names-->
     <string name="syncro">Search in the device </string>
     <string name="apple_music">Apple Store</string>
     <string name="spotify">Spotify</string>
+
+    <!--Songs Info-->
+    <string name="song_details_play_now">Play Now</string>
+    <string name="song_details_album_description">Lorem Ipsum is adssad dsadas dsa dasd asd asd asd asd asdasfdsf agf </string>
 </resources>
