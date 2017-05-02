@@ -9,4 +9,12 @@
     <string name="player_play">Play Song</string>
     <string name="player_previous">Go to the previous song</string>
     <string name="player_next">Go to the next song</string>
+
+    <string name="add_song_name">Song Name</string>
+    <string name="add_song_artist_name">Artist Naame</string>
+
+    <!--Store names-->
+    <string name="syncro">Search in the device </string>
+    <string name="apple_music">Apple Store</string>
+    <string name="spotify">Spotify</string>
 </resources>
