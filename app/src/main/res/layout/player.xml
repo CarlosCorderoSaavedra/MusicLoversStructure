@@ -6,7 +6,8 @@
     android:background="#212121"
     android:gravity="center"
     android:paddingBottom="8dp"
-    android:paddingTop="8dp">
+    android:paddingTop="8dp"
+    tools:context=".Player">
 
 
     <ImageView
@@ -22,6 +23,7 @@
         android:orientation="vertical">
 
         <TextView
+
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginEnd="16dp"
@@ -41,12 +43,14 @@
     </LinearLayout>
 
     <ImageView
+        android:id="@+id/player_previous_song"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/medial_control_previous"
         android:contentDescription="@string/player_previous" />
 
     <ImageView
+        android:id="@+id/player_play_song"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -55,6 +59,7 @@
         android:layout_marginLeft="8dp" />
 
     <ImageView
+        android:id="@+id/player_next_song"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
