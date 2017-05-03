@@ -16,4 +16,14 @@
     </style>
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- TextView Description. -->
+    <style name="descTextView" parent="AppTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/text_view_padding</item>
+        <item name="android:layout_marginBottom">@dimen/text_view_padding</item>
+        <item name="android:textColor">@color/colorWhiteTransparent80</item>
+        <item name="android:background">@color/colorWhiteTransparent25</item>
+    </style>
 </resources>

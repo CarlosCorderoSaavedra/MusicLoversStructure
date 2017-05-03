@@ -21,4 +21,9 @@
     <!--Songs Info-->
     <string name="song_details_play_now">Play Now</string>
     <string name="song_details_album_description">Lorem Ipsum is adssad dsadas dsa dasd asd asd asd asd asdasfdsf agf </string>
+    <!-- Description -->
+    <string name="add_songs_description">Here you can add song to the local library from the store or from local directories</string>
+    <string name="home_description">Here you can select the one of the two options , add songs or check the song list</string>
+    <string name="songs_list_description">Here you can you song library</string>
+
 </resources>
